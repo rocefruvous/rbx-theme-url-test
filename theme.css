@@ -1,4 +1,13 @@
-    body {
+:root {
+    --background: #0d0f18;
+    --second-background: #0b0d16;
+    --border: #0f111a;
+    --button-background: rgba(134, 170, 236, 0.15);
+    --fore: #a5b6cf;
+    --accent: #86aaec;
+}    
+
+body {
         background-color: var(--second-background) !important;
         color: var(--fore) !important;
     }
